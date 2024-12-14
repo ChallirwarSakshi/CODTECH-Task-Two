@@ -1,8 +1,8 @@
-Name: Sakshi Challirwar
-Company: CODTECH IT SOLUTIONS
-ID: CT12DS2713
-Domain: Web Development
-Duration: October 15th, 2024 to December 15th, 2024
+Name: Sakshi Challirwar,
+Company: CODTECH IT SOLUTIONS,
+ID: CT12DS2713,
+Domain: Web Development,
+Duration: October 15th, 2024 to December 15th, 2024.
 
 ## Project Overview
 The Weather Forecast Application provides users real-time weather data for any city globally. Users can input a city name to retrieve accurate and up-to-date information about the current weather, including temperature, humidity, wind speed, and a description of the weather conditions.
