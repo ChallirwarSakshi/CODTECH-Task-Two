@@ -1,4 +1,4 @@
-# CODTECH-WEB-DEVELOPMENT-TASK-Two
+# CODTECH-WEB-DEVELOPMENT-TASK-TWO
 
 **Name:** Sakshi Challirwar  
 **Company:** CODTECH IT SOLUTIONS  
@@ -7,7 +7,7 @@
 **Duration:** October 15th, 2024 to December 15th, 2024  
 
 ## Project Overview
-The Weather Forecast Application provides users real-time weather data for any city globally. Users can input a city name to retrieve accurate and up-to-date information about the current weather, including temperature, humidity, wind speed, and a description of the weather conditions.
+The **Weather Forecast Application** provides users with real-time weather data for any city globally. Users can input a city name to retrieve accurate and up-to-date information about the current weather, including temperature, humidity, wind speed, and a description of the weather conditions.
 
 ## Core Features:
 - **Real-Time Weather Data:** Displays live weather information, including temperature, humidity, wind speed, and a brief weather description.
