@@ -4,7 +4,7 @@
 **Company:** CODTECH IT SOLUTIONS  
 **ID:** CT12DS2713  
 **Domain:** Web Development  
-**TASK:** WEATHER FORECAST APP
+**TASK:** WEATHER FORECAST APP  
 **Duration:** October 15th, 2024 to December 15th, 2024  
 
 ## Project Overview
@@ -25,15 +25,15 @@ The **Weather Forecast Application** provides users with real-time weather data 
 
 ## Technologies Utilized
 - **HTML:** Provides the foundational structure of the app.
-- **CSS:** Defines the styling and layout of the application (found in style.css).
-- **JavaScript:** Responsible for fetching weather data from the API and updating the UI (handled in script.js).
+- **CSS:** Defines the styling and layout of the application (found in `style.css`).
+- **JavaScript:** Responsible for fetching weather data from the API and updating the UI (handled in `script.js`).
 - **OpenWeather API:** A reliable source of real-time weather data for cities worldwide.
 
 ## File Organization
-- **index.html:** Contains the structure and layout of the application.
-- **style.css:** Defines the app’s styling and visual appearance.
-- **script.js:** Handles the logic for fetching and displaying weather data.
-- **images/:** Directory containing weather-related icons (for conditions such as clear sky, rain, snow, etc.).
+- **`index.html`:** Contains the structure and layout of the application.
+- **`style.css`:** Defines the app’s styling and visual appearance.
+- **`script.js`:** Handles the logic for fetching and displaying weather data.
+- **`images/`:** Directory containing weather-related icons (for conditions such as clear sky, rain, snow, etc.).
 
 ## How to Use
 **To get started with the application:**
@@ -49,4 +49,5 @@ If you would like to contribute or modify the project, please follow these guide
 
 ## Contributing
 Contributions are welcome! Feel free to fork this repository and submit pull requests for bug fixes, enhancements, or new features. For any suggestions or issues, please open a new issue in the repository.
+
 
