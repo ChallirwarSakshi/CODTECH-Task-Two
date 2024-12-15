@@ -4,6 +4,7 @@
 **Company:** CODTECH IT SOLUTIONS  
 **ID:** CT12DS2713  
 **Domain:** Web Development  
+**TASK:** WEATHER FORECAST APP
 **Duration:** October 15th, 2024 to December 15th, 2024  
 
 ## Project Overview
