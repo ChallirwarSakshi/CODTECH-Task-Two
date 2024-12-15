@@ -1,10 +1,10 @@
-# CODTECH-WEB-DEVELOPMENT-TASK-TWO
+# CODTECH WEB DEVELOPMENT TASK-TWO
 
 **Name:** Sakshi Challirwar  
 **Company:** CODTECH IT SOLUTIONS  
 **ID:** CT12DS2713  
 **Domain:** Web Development  
-**TASK:** WEATHER FORECAST APP  
+**TASK:** Wwather Forecast App  
 **Duration:** October 15th, 2024 to December 15th, 2024  
 
 ## Project Overview
