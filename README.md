@@ -4,7 +4,7 @@
 **Company:** CODTECH IT SOLUTIONS  
 **ID:** CT12DS2713  
 **Domain:** Web Development  
-**TASK:** Wwather Forecast App  
+**TASK:** Weather Forecast App  
 **Duration:** October 15th, 2024 to December 15th, 2024  
 
 ## Project Overview
@@ -47,7 +47,7 @@ If you would like to contribute or modify the project, please follow these guide
 - **Update `index.html`:** Make changes to the app’s structure or content as required.
 - **Edit `script.js`:** Extend or modify the JavaScript code to add new features or improve functionality.
 
-## Contributing
+## Contribution
 Contributions are welcome! Feel free to fork this repository and submit pull requests for bug fixes, enhancements, or new features. For any suggestions or issues, please open a new issue in the repository.
 
 
